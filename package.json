@@ -1,0 +1,12 @@
+{
+  "name": "resynjs",
+  "version": "1.0.0",
+  "description": "syntax parser thingy",
+  "main": "index.js",
+  "repository": "https://github.com/phantamanta44/resynjs.git",
+  "author": "phantamanta44",
+  "license": "MIT",
+  "scripts": {
+    "start": "node cli.js"
+  }
+}
